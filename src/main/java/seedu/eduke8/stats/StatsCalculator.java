@@ -9,7 +9,7 @@ import seedu.eduke8.topic.TopicList;
 import java.util.ArrayList;
 
 
-public class StatsCalculator {
+public class  StatsCalculator {
     protected static final int POINTS_PER_QUESTION = 2;
     protected static final int POINTS_FOR_CORRECT_ANSWER_WITHOUT_HINT_SHOWN = 2;
     protected static final int POINTS_FOR_CORRECT_ANSWER_WITH_HINT_SHOWN = 1;
