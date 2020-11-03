@@ -225,6 +225,11 @@ Example of usage:
 bookmark
 ```
 
+What you should see:
+
+![bookmark](./images/bookmarked_a_question.png)
+
+
 ### 3.13. Listing out all bookmarked questions: `bookmark`
 
 Lists out all the bookmarked questions and each of their four options.
@@ -236,6 +241,11 @@ Example of usage:
 ```
 bookmark
 ```
+
+What you should see:
+
+![bookmark](./images/bookmark_list_printed.png)
+
 
 ### 3.14. Displaying stats: `stats`
 
